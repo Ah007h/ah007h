@@ -10,7 +10,6 @@
   - Dart
   - HTML
   - CSS
-  - PHP
   - MySQL
 
 - **Technologies:**
