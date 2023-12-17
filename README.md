@@ -1,22 +1,13 @@
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ah007h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ah007h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
-###
-
 # Ahmed Amer Ahmed Bakouban
 
 👋 Greetings! I am Ahmed Amer Ahmed Bakouban, a dedicated software professional currently in the final semester at Universiti Utara Malaysia (UUM). I am actively exploring opportunities for an internship to further apply and refine my skills in software development.
 
 
 ## 🔧 Skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ah007h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ah007h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 - **Programming Languages:**
   - Java
