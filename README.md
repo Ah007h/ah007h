@@ -37,6 +37,6 @@ I am actively looking for internship opportunities to apply and enhance my skill
 
 - LinkedIn: [Ahmed Bakouban](https://www.linkedin.com/in/ahmad-bakoban-497045277/)
 - Email: [ahmed.amer.bakouban@gmail.com]
-- Phone: [+966558639575], [+60183747136]
+- Phone: [+966558639575]
 
   
