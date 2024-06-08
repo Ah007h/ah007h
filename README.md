@@ -11,6 +11,7 @@
   - PHP
   - CSS
   - MySQL
+  - Oracle PL/SQL
 
 - **Technologies:**
   - Beginner in Kafka
