@@ -12,8 +12,6 @@
   - CSS
   - MySQL
   - Oracle PL/SQL
-
-- **Technologies:**
   - Beginner in Kafka
   - Beginner in Docker
 
