@@ -22,9 +22,7 @@ I am passionate about creating robust and efficient software solutions. My progr
 ## 🎓 Education
 
 - **Universiti Utara Malaysia (UUM)**
-  - Bachelor's in [Information Technology(Software Engineering)], 
-  - *Expected to Start Internship: [April 2024]*,
-  - *Expected Graduation: [August 2024]*
+  - Bachelor's in [Information Technology(Software Engineering)]
 
 ## 📬 Contact
 
